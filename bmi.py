@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+#Date: 2017-2-3
+#Ver: 1.0
+#Author: xshg
+#通过输入体重和身高，计算BMI
+
 height = input("请输入身高(m)：")
 weight = input("请输入体重(kg)：")
 height = float(height)
