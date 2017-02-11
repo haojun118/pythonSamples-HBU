@@ -6,4 +6,7 @@
 
 bmi.py		--	计算肥胖指数
 
-recursion	--	递归算法，以阶乘为例
+recursion.py	--	递归算法，以阶乘为例
+
+hanoi.py	--	递归算法，汉诺塔
+
