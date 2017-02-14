@@ -3,7 +3,7 @@
 # Date: 2017-2-14
 # Ver: 1.0
 # Author: xshg
-# 使用turtle库，绘制一个个矩形，行程一个圆形
+# 使用turtle库，绘制一个个矩形，形成一个圆形
 
 import turtle
 
