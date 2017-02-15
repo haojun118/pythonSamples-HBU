@@ -12,6 +12,6 @@ hanoi.py	--	递归算法，汉诺塔
 
 drawsquare.py	--	使用turtle库，示例如何绘制一个矩形
 
-drawsquaretocircle.py	--	使用turtle库，循环回执矩形，行程一个圆形
+drawsquaretocircle.py	--	使用turtle库，循环绘制矩形，行程一个圆形
 
 drawaflower.py	--	使用turtle库，绘制若干diamond（菱形），行程一朵小花
