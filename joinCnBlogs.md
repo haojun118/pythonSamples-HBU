@@ -4,4 +4,4 @@
 
 #加入班级博客
 
-点击<a href="http://edu.cnblogs.com/campus/hbu/Python2017Spring/join?id=CfDJ8Mmb5OBERd5FqtiQlKZZIG4KJp6M8AwdQerIg70hY8uW8MWlWtE11Yoc-ASaM8JfzIzN2Npf7wyo5dGlOkecpzF9ONpmqFVfTy5-pMKjJ6J1SdUzwKO426FFoCoijUM3y8hNqPNjryvELIgqXezq8gQ">本链接加入班级博客</a>。
+点击<a href="http://edu.cnblogs.com/campus/hbu/Python2017Spring/join?id=CfDJ8Mmb5OBERd5FqtiQlKZZIG5C8mGNW9qvb_L6q4eutGbPJqPd4VIsji27tysEFc0i9nG3Nj8ZvNSG5pANH30VJM_GtbrZqCI27RrxU7l8Qg5fsAK7e6NmdULwYG6-xrbDnVvdW-LZrrRbwVyy7rBhPdQ">本链接加入班级博客</a>。
